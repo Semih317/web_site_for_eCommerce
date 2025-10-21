@@ -1,4 +1,4 @@
-# web_site_for_eCommerce
+Website for eCommerce
 Frontend and backend template for eCommerce website.
 
 api ---> Backend (for running --> npm run server)
